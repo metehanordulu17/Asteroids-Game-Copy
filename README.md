@@ -1,0 +1,1 @@
+Basic Beginner Asteroids Game Copy made with Unity, aimed to copy the classical Atari Game Asteroids for learning concepts such as 2D Physics,Coroutines and UnityUI , Utilized various aspects of Game Programming such as Object Pooling and Singeleton Pattern when spawning objects to optimize game performance
